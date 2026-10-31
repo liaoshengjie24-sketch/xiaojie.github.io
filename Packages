@@ -239,6 +239,25 @@ Name: Actra
 Icon: https://mlgm66.github.io/icon/actra.png
 Author: mlgm
 
+Package: com.mlgm.actra
+Architecture: iphoneos-arm64e
+Version: 1.3.1
+Section: Tweaks
+Maintainer: mlgm
+Installed-Size: 4080
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Filename: debs/com.mlgm.actra_1.3.1_iphoneos-arm64e.deb
+Size: 813664
+MD5sum: 1d7dfe8daae9e1b7d0a343bd0092e1c1
+SHA1: 6795a8e3bdd4a2ae81f481b9d41ec5fee6db19e0
+SHA256: 0d238d40b6d6706dc9a0622953be4b14e16dc78829ee3b822e93390a65598382
+SHA512: 70026dfc9d3442f48f7787888925cf9cd5d7e765cfa2b99822a727bdc5e92855a83ea095e13ff95196e09a2621b4d8c76100ee90d92efd1edf02249456866ad5
+Description: 手势与事件自动化工具
+Name: Actra
+Icon: https://mlgm66.github.io/icon/actra.png
+Author: mlgm
+
 Package: com.sbcpu.floating
 Architecture: iphoneos-arm64
 Version: 4.61
