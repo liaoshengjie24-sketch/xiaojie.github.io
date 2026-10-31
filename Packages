@@ -68,6 +68,25 @@ Description: 可自定义锁屏时钟渐变色的美化插件。
 Name: LockScreen Gradient Clock
 Author: MoWang
 
+Package: com.mlgm.actra
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
+Maintainer: mlgm
+Installed-Size: 3716
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Filename: debs/com.mlgm.actra_1.1.1_iphoneos-arm64.deb
+Size: 716872
+MD5sum: 3cc42ea52aa6841919a773f7dd55f1a0
+SHA1: a2ae95f4013c2b1bfbb488a54a802645aac183f3
+SHA256: 583f152040e17cae62cf27ba1420b66fd35895de484695236229bd101bb3801a
+SHA512: b24c32adfdb8ab4631683a1c9a50ea6ee639bc7970d614b54fe08216278c18f2cd58b2aeec25ff162f5808c69d63dbde855c3e484d525539f1cd5e064ccb8f04
+Description: 手势与事件自动化工具
+Name: Actra
+Icon: https://mlgm66.github.io/icon/actra.png
+Author: mlgm
+
 Package: com.sbcpu.floating
 Architecture: iphoneos-arm64
 Version: 4.61
