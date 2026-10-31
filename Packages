@@ -1,3 +1,39 @@
+Package: com.aa22qq.axiskey
+Architecture: iphoneos-arm64
+Version: 10.0.0
+Section: Tweaks
+Maintainer: aa22qq
+Installed-Size: 780
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/com.aa22qq.axiskey_10.0.0_iphoneos-arm64.deb
+Size: 109148
+MD5sum: c347601c4c41de00607027bca49a5753
+SHA1: d9a7e100a5625c2d6eaa65d54515ee84cfe261c4
+SHA256: 94d3431b2bdae1dae3e1841fe972be9324d289698d477623fc4278dbd8e27309
+SHA512: ab00451254c596c8a8f1a570979eaede85979f6b7cfafaca8080d4b6058a3d4a22ae4008c494371020eb0df212d6323b3f661a8ade8b4416e0f639927d113ba4
+Description: 结合物理按键手势与六轴空间方向的高效插件，支持连击与长按秒开微信扫一扫及付款码等常用功能。小伙伴需要什么功能，慢慢添加吧。感谢大家的支持，为爱发电……✌
+Name: AxisKeyGesture
+Author: aa22qq
+icon: https://huayuarc.github.io/icon/axiskey.png
+
+Package: com.aa22qq.axiskey
+Architecture: iphoneos-arm64e
+Version: 10.0.0
+Section: Tweaks
+Maintainer: aa22qq
+Installed-Size: 780
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/com.aa22qq.axiskey_10.0.0_iphoneos-arm64e.deb
+Size: 108736
+MD5sum: 0ff9e94d4332d47a45dafef74d9b9530
+SHA1: 92aee521ddd73c370ee3b925c9fde770f648556b
+SHA256: af7cbf760b79728f80a7f7bc4d6678d5933ff433872c7d20ca6e7320434fc1dc
+SHA512: c9abfedb0d2545405fd2e6bfcdcbb71f6dceef86aa45b31f908045f538df471917b13a68f04a231f6a97a793a7ea9446aacd54c64e8873e63885a28b1168192e
+Description: 结合物理按键手势与六轴空间方向的高效插件，支持连击与长按秒开微信扫一扫及付款码等常用功能。小伙伴需要什么功能，慢慢添加吧。感谢大家的支持，为爱发电……✌
+Name: AxisKeyGesture
+Author: aa22qq
+icon: https://huayuarc.github.io/icon/axiskey.png
+
 Package: com.axs.ahsfilter
 Architecture: iphoneos-arm64
 Version: 5.2.0-3
@@ -299,11 +335,11 @@ Installed-Size: 3844
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
 Conflicts: com.example.actra-plugin
 Filename: debs/com.mlgm.actra_1.2_iphoneos-arm64.deb
-Size: 753924
-MD5sum: 98904d6d68b585c30880770c73ca7c7f
-SHA1: fcfb6180ef970d49bb359a65a4b382109e8899e9
-SHA256: 8954f43e62046550be2cdd9e3aa032fe6af1ba7de3f132db7757cbbd3772fef2
-SHA512: a22dcc52b2eacc3277567d1e2f6e580319fc694ed8724c09b7bd05395cabe8077876bcee800e5244bd248b98bbafda7b93ccd9fe2d32b6cf7df5cfc8e4857929
+Size: 752646
+MD5sum: 4737b0ee5af4011f5b0ee5edf110943b
+SHA1: 35e5906ad01f5653ef4a9be500e24c8de92837ec
+SHA256: ad668c37dc18a911b93e8ce0530ff812a25c38599393e8ad60557446ff3b474b
+SHA512: e16740045b5d73c148af115633133c775f7aa579d4331d12c7a7d4b96a61e4efba15800edb9fca1c36893cde665f49cd0c4aab9d900efa74ba904b81de6a4ff7
 Description: 手势与事件自动化工具
 Name: Actra
 Icon: https://mlgm66.github.io/icon/actra.png
@@ -318,11 +354,11 @@ Installed-Size: 3844
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
 Conflicts: com.example.actra-plugin
 Filename: debs/com.mlgm.actra_1.2_iphoneos-arm64e.deb
-Size: 756080
-MD5sum: 1ea0379a8f0dd681cc61c35401e50e22
-SHA1: 14ac08e28a09f568ba4bce27642198fbbdf5dd83
-SHA256: ac3941f9d55999ef08545488d62948a348d0e73c489cd86c0bd3ee08176679a1
-SHA512: 1448adbe9128af91df49f00ebaa28939208b7a00f2f2e6549df478758561a1141c33799353dc58b073c24569e648265cd3563bcead4b2e62d66cc47f5989fd48
+Size: 754400
+MD5sum: 8147ae6a2bc8cd2f7093f5b6343b5ec4
+SHA1: bdf49531ca4487adefd7efc1d991992988de35c7
+SHA256: 9681f042382682f9c0ac9efe65a111d22573c71d62cc672b2d88f5120a1181bd
+SHA512: 85c15d7eaec0c321bc547cad7e67204cc8a1e8abea0e157402fa73db710c518b5c2b18b12b9373024d227872fb4e15a653b1b9591d009b043150eb7ead88a694
 Description: 手势与事件自动化工具
 Name: Actra
 Icon: https://mlgm66.github.io/icon/actra.png
@@ -442,6 +478,43 @@ Name: Actra
 Icon: https://mlgm66.github.io/icon/actra.png
 Author: mlgm
 
+Package: com.monian.b612patch
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Monian
+Installed-Size: 2964
+Depends: mobilesubstrate
+Filename: debs/com.monian.b612patch_0.0.1_iphoneos-arm64.deb
+Size: 74188
+MD5sum: ebb485c9bf17fbd405a28a746865007d
+SHA1: 39a8520c9ce689308d18499ad164f63d6683e96b
+SHA256: 168009fae95490ef0b81df6e547252bdcc569670355b02a90544322fcef155cc
+SHA512: 142671911553286e067f10a6021eece83134fb7a1a200ef439cd534680ae7d4960fc0ee307c9451812f53b107d6b1049d451462dd1a245260620ebb93558b06d
+Description: B612 Unlocked VIP
+Name: B612 Unlocked VIP
+Author: Monian
+icon: https://huayuarc.github.io/icon/b612.jpg
+
+Package: com.monian.b612patch
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Monian
+Installed-Size: 2964
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.monian.b612patch_0.0.1_iphoneos-arm64e.deb
+Size: 72612
+MD5sum: 0a7855a04c151415d4abe4350039c4a3
+SHA1: 0f3335f90cd6fe72a71e623982de176b40d62ee8
+SHA256: 356c3691dc6920aaa50a476c6547ed6ba5faa14d2ecacd2004e50a5b433f00e4
+SHA512: 82fc97c5915b3888067be4e08dab1e12f87cba994c2c0fb2d4921d0f97f14806dc337ac4f42ea5a832585aa4fc559c11f0658484a7b2fa9b3a5841a45e34c3ca
+Description: B612 Unlocked VIP
+Name: B612 Unlocked VIP
+Author: Monian
+icon: https://huayuarc.github.io/icon/b612.jpg
+
 Package: com.sbcpu.floating
 Architecture: iphoneos-arm64
 Version: 4.61
@@ -476,6 +549,22 @@ Description: 实时悬浮窗硬件监控：CPU 负载与频率、屏幕 FPS、�
   - 本包为 Rootless（arm64）版；RootHide（arm64e）请安装对应版本
 Name: SB CPU Floating
 Author: MoWang
+
+Package: com.tsangbaby.autoscroll
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Maintainer: Tsangbaby
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: debs/com.tsangbaby.autoscroll_0.0.1_iphoneos-arm64e.deb
+Size: 2590
+MD5sum: 41740244260e665e939336b264dd93c1
+SHA1: 967c6e7ef71ae5f46287cc02fbc30c04ecb81e5f
+SHA256: cfb4588257119629e7ddab3dd9882a4472b76361b087ae9b171f74f31dd6b6db
+SHA512: 7d7922c4f80ba957b3d5769210d112f09868d04d09d3d6247fa361957b79bf45be693dc2da43b5ba8a56ad1c72b9d598d06e5cad113ff7568614e1e17e73164e
+Description: AutoScroll scroll behavior tweak for RootHide.
+Name: AutoScroll
+Author: Tsangbaby
 
 Package: com.zege.27safari
 Architecture: iphoneos-arm64
@@ -584,4 +673,359 @@ Description: 27Home
 Name: 27Home（rootless 测试）
 Author: ngkhoi&泽哥
 Icon: https://MrSuuu.github.io/Sileo/depictions/icon-home27.png
+
+Package: dylv.deepliquid
+Architecture: iphoneos-arm64e
+Version: 0.1.93b
+Section: Tweaks
+Maintainer: Ai
+Installed-Size: 5320
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 26.0), preferenceloader
+Filename: debs/dylv.deepliquid_0.1.93b_iphoneos-arm64e.deb
+Size: 1753502
+MD5sum: 10f4b06fe418a291bedda0a12a1ca30d
+SHA1: a1e8b02a5b2bf2ddf17d1812ff39b5e8643e43d3
+SHA256: 88728c7328d486fff4e3d86d272807323ee6dcd50a165cf77c179fda97fc1973
+SHA512: de811c8fd927e68c2452292fa2ee4275115095fb8d36a069d7fb7e59f2a150fef2da892fe53cd79ec332e425aae50ccd5309aa4888db8eee52355b4e67379687
+Description: 深度优化的液态玻璃效果，智能帧率控制 + 全局数量预算，告别发烫
+Name: Ai液态玻璃
+Author: Ai
+Icon: https://winaviation.github.io/repo/depictions/dylv.Deepliquid/icon.png
+
+Package: iya.banana.appleintelligenceenabler
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Tweaks
+Maintainer: hxhlb
+Installed-Size: 472
+Depends: preferenceloader, firmware (>= 18.1), firmware (<< 19.0)
+Filename: debs/iya.banana.appleintelligenceenabler_0.1.0_iphoneos-arm64.deb
+Size: 57390
+MD5sum: 62abdc3a22c2ee43530e19198c0c1bfc
+SHA1: a74272e15b997110eb7919a7aa8a5c42c2878bfc
+SHA256: 6df4f99498612f2955c1bd7db721e0cde2ef5e3af7d0410c6fdb0598331a7f14
+SHA512: 537898096797c9d4845811b32d1ae84f913e2194b600290b6d5ea7e7efc01c3a4cb84340fef07c4c8bb56ad7d9f1562c84081f187278091af2d86c5df0fc07fb
+Description: Applies the iPhone 15 Pro MobileGestalt configuration on iOS 18.1-18.x with per-value backup and restore.
+Name: Apple Intelligence Enabler
+Author: hxhlb
+
+Package: iya.banana.appleintelligenceenabler
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Tweaks
+Maintainer: hxhlb
+Installed-Size: 472
+Depends: preferenceloader, firmware (>= 18.1), firmware (<< 19.0)
+Filename: debs/iya.banana.appleintelligenceenabler_0.1.0_iphoneos-arm64e.deb
+Size: 57276
+MD5sum: cf7d24f4538d0812025f26f171a6b517
+SHA1: 31323ce2a59676664753186c3cc9947e9d4f4a7c
+SHA256: a139ed8d0712424a4f3f5f70d2c87c7cf35aca46f5789a234d3913cc45429725
+SHA512: 1eed096e6f9598adf53ef5856db0bea211f7fee4e891747d2721fed0ee9394480939519d789c988e350d2812d62e1d0aef6b364fb0ba323113e447e65e27561f
+Description: Applies the iPhone 15 Pro MobileGestalt configuration on iOS 18.1-18.x with per-value backup and restore.
+Name: Apple Intelligence Enabler
+Author: hxhlb
+
+Package: iya.banana.audioservice
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Development
+Maintainer: Banana
+Installed-Size: 716
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/iya.banana.audioservice_1.0.2_iphoneos-arm64.deb
+Size: 49376
+MD5sum: ec5fd21462f5385da635a49d8eba7612
+SHA1: 589fb9b84fc678e5f345d27a16fd7b3213d3b89a
+SHA256: 8306d4c6c4c3b0163aa2a25f713a4f320637908aec850d514eca05b59ebbae4c
+SHA512: d34f5fa74a16b603c0bd2d9132f7e659d5e520256be2fc5e6e1d2068a01b21b490f0ed26b0252b411b6d4521e40a56c3f7eb9489c785d68988a6d8fa73d310ae
+Description: Shared local waveform and spectrum feature service for jailbreak tweaks.
+Name: Banana Audio Service
+Author: Banana
+
+Package: iya.banana.audioservice
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Development
+Maintainer: Banana
+Installed-Size: 712
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/iya.banana.audioservice_1.0.2_iphoneos-arm64e.deb
+Size: 48496
+MD5sum: dedfc99a62c3d796c2680271acec03ed
+SHA1: 4f74fd3ad7027a8f92fca78f4feb532b296be183
+SHA256: 9a215445523b041198fb3291f403f2c54967007ceaae2c6ea54f15f43abac349
+SHA512: af23f6878ac45b57764737b89c2bc61e55a9e4b8dd3eeb3c28e33784addea0960ad0385d036c8a81ff66e8139e122493daa1a4fa2f114cbd4433e1c26fe77b38
+Description: Shared local waveform and spectrum feature service for jailbreak tweaks.
+Name: Banana Audio Service
+Author: Banana
+
+Package: iya.banana.audioservice
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Development
+Maintainer: Banana
+Installed-Size: 724
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/iya.banana.audioservice_1.0.4_iphoneos-arm64.deb
+Size: 55356
+MD5sum: 4e6a498813024e64674d0ef9467f97c7
+SHA1: f3ca5974b3cef974ef2f5b087f7ed79062aace4e
+SHA256: 4f39f0ac2f402374acec561a63f3f9679064a82456c784973a2c37d42a20ae4a
+SHA512: 11587f537d5c5d74dc61ff570dceea3fcd5b3c3b004b43ea0082ec5f118be425c05cafdbff9911f97b4d0f1e7aef655a0709d0738cb046cf40990703f527fa22
+Description: Shared local waveform and spectrum feature service for jailbreak tweaks.
+Name: Banana Audio Service
+Author: Banana
+
+Package: iya.banana.audioservice
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Section: Development
+Maintainer: Banana
+Installed-Size: 724
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/iya.banana.audioservice_1.0.4_iphoneos-arm64e.deb
+Size: 53768
+MD5sum: 5dc8cec9af6ca9b0ea59a3326df80435
+SHA1: ddf9c79864309277e0388e1b4ee9dc83394d5edb
+SHA256: afb6f1eae8746b9e715084a5dcac465b0bb6a3e753973247495e2f7042129846
+SHA512: 7aa8ef104b4b32a5d1a42f54e57f21e31c2022bab1d498a4d3111df8ab2c9a2177c8c319ad0567e9d04a1cf301781ed5ff8a86f857eff91fd9194539909b212f
+Description: Shared local waveform and spectrum feature service for jailbreak tweaks.
+Name: Banana Audio Service
+Author: Banana
+
+Package: iya.banana.billie.ambientbadge
+Architecture: iphoneos-arm64
+Version: 0.1.15
+Section: Tweaks
+Maintainer: Banana
+Installed-Size: 704
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/iya.banana.billie.ambientbadge_0.1.15_iphoneos-arm64.deb
+Size: 106686
+MD5sum: 7316bda79770ca3c784c27134676ee25
+SHA1: 4a03e224505f7d9e9f427fa8e63cfd233872516a
+SHA256: 5c59a4786b3ed03b5f76b1f19abcbb4d03922bb9888c99b673e66edf6ef661f7
+SHA512: 6eb0b8c421a18ea7cc523cb0216dd48fce2ac0554ae529b646039def7fcce14849f77b9de1f97baff7de92359a4411234bd9669232d841355a0c7e730c50133c
+Description: Custom notification badge styles with adaptive ambient glow. For Billie.
+Name: AmbientBadge
+Author: Banana
+
+Package: iya.banana.billie.ambientbadge
+Architecture: iphoneos-arm64e
+Version: 0.1.15
+Section: Tweaks
+Maintainer: Banana
+Installed-Size: 704
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/iya.banana.billie.ambientbadge_0.1.15_iphoneos-arm64e.deb
+Size: 106586
+MD5sum: 14367bd78f512f7d1c561fc818fb4be6
+SHA1: 7b17fa4188180b99c30f500140f62950c4c30da2
+SHA256: 187738883535c14350b8c8e8fe4fce3ac0495aaf2501a76890e0d689465e9df1
+SHA512: 2ed486f314f7d5dae8b53a86822976f825d5d2f3a66ce767c7b37a71d714d5c763fc4948d304e20f4ad79510a75407bc76d30cb69c82028693a8db3dc8a6ff4d
+Description: Custom notification badge styles with adaptive ambient glow. For Billie.
+Name: AmbientBadge
+Author: Banana
+
+Package: iya.banana.billie.ambientbadge
+Architecture: iphoneos-arm64
+Version: 0.1.16
+Section: Tweaks
+Maintainer: Banana
+Installed-Size: 748
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/iya.banana.billie.ambientbadge_0.1.16_iphoneos-arm64.deb
+Size: 115346
+MD5sum: c6e0b5d85a147269922c6cdc9ced955d
+SHA1: ac4b12f47199986801b1de7923bf8dfd5aecfa25
+SHA256: 6c81b554db241579a6f19311f8504fd5470e8d21ac789bf65a30d9253e2b9e8f
+SHA512: 19de41c33e55b995c230d14334864af2b227a62094bb380e80d40d6935d51802a7162424d932cdd8ef5da699121b52e461cc0a0264f155a6b7ce5c57cf8539ce
+Description: Custom notification badge styles with adaptive ambient glow. For Billie.
+Name: AmbientBadge
+Author: Banana
+
+Package: iya.banana.billie.ambientbadge
+Architecture: iphoneos-arm64e
+Version: 0.1.16
+Section: Tweaks
+Maintainer: Banana
+Installed-Size: 748
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/iya.banana.billie.ambientbadge_0.1.16_iphoneos-arm64e.deb
+Size: 115174
+MD5sum: 89fa8791e82ef6d645e26963dc6dc539
+SHA1: 790a8aaa05d2eb37bdd0d8db5ccc59d82616f311
+SHA256: 394d808d7c0aefb12c729b0fa119c55ec10ddc54642411f96de902fcc780d466
+SHA512: fa708f6b9585250c4bde667839095ccfa833eea5c18c3d51fcc7202aa55cc6ed83a1230afe1ffbc9aeb5076073c338a1a30c281ea462e9be04ad1a7e67e1d181
+Description: Custom notification badge styles with adaptive ambient glow. For Billie.
+Name: AmbientBadge
+Author: Banana
+
+Package: wiki.qaq.apelin.dev.cli
+Architecture: iphoneos-arm64
+Version: 0.1.1
+Priority: optional
+Section: Development
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 36
+Depends: wiki.qaq.apelin (>= 0.1.0)
+Enhances: wiki.qaq.apelin
+Filename: debs/wiki.qaq.apelin.dev.cli_0.1.1_iphoneos-arm64.deb
+Size: 6004
+MD5sum: baff4c18a9b96aed68f99f0ad52912dc
+SHA1: 89ba7ba0ef45f7ec9b359e697232c83b0f305f77
+SHA256: d7f49891447790f8f388020d685a457bc092da03d1eb0c64ce724b6396868d2b
+SHA512: a092920f97f04c39a59f8c3195a5220a33b88be9ea9e8282c32b3068a39ab2f17dd3e18139da4aa8dec2c1ad49658c9733265ac6d2f3c6ce524359db00e21b6d
+Description: Command-line tool templates for Apelin, for rootless jailbreaks
+ Lets Apelin create, build and package C and Objective-C command-line tools
+ on the device, installed into the bootstrap's /usr/bin.
+Name: Apelin Command-Line Tool Development
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.cli.png
+Depiction: https://owngoal-dev.github.io/Apelin/
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+
+Package: wiki.qaq.apelin.dev.cli
+Architecture: iphoneos-arm64e
+Version: 0.1.1
+Priority: optional
+Section: Development
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 36
+Depends: wiki.qaq.apelin (>= 0.1.0)
+Enhances: wiki.qaq.apelin
+Filename: debs/wiki.qaq.apelin.dev.cli_0.1.1_iphoneos-arm64e.deb
+Size: 5896
+MD5sum: 23ee0c397e0301ef35b323d8d1e52f21
+SHA1: fb354f13e21ee884251d6031ab005a63edd6b49c
+SHA256: c85ad5a3f61712c7bc5d11c908d445787a1f3d32bc7b21816ceb93f1f54ee53a
+SHA512: be56f037d75d30fce0556b12df6a5ac6e05b2a475a3f4ad6c1be256f8f57b7a9c8dcdfd0cd96d5a861bd0966fbb00b147a8d5675ed789d4399b166662eec0b0d
+Description: Command-line tool templates for Apelin, for roothide jailbreaks
+ Lets Apelin create, build and package C and Objective-C command-line tools
+ on the device, installed into the bootstrap's /usr/bin.
+Name: Apelin Command-Line Tool Development
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.cli.png
+Depiction: https://owngoal-dev.github.io/Apelin/
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+
+Package: wiki.qaq.apelin.dev.preferences
+Architecture: iphoneos-arm64
+Version: 0.1.1
+Priority: optional
+Section: Development
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 40
+Depends: wiki.qaq.apelin (>= 0.1.0), preferenceloader
+Enhances: wiki.qaq.apelin
+Filename: debs/wiki.qaq.apelin.dev.preferences_0.1.1_iphoneos-arm64.deb
+Size: 7140
+MD5sum: d6993555fb963e416920f5b78c44ce51
+SHA1: 29c83c600bb052d0c50cd277d344f98c35bcd8c2
+SHA256: 2c050f652800c877dad7980799927a675a5b5af40d96fafee41c9fc127f470fa
+SHA512: 9de5ef47af15281c74b7429ff0defdcbfb82d4fcad01611510a4adc131ac4b441264f30e32b2c385e2020d487af055abf7c587d77324974e8d947a9aa32e1763
+Description: Settings pane templates for Apelin, for rootless jailbreaks
+ Lets Apelin create, build and package preference bundles on the device: a
+ template with a switch and a text field, the PreferenceLoader entry that
+ shows it in Settings, and declarations for the private Preferences
+ framework. Needs PreferenceLoader, which your preferred package manager
+ installs with it.
+Name: Apelin Preference Bundle Development
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.preferences.png
+Depiction: https://owngoal-dev.github.io/Apelin/
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+
+Package: wiki.qaq.apelin.dev.preferences
+Architecture: iphoneos-arm64e
+Version: 0.1.1
+Priority: optional
+Section: Development
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 40
+Depends: wiki.qaq.apelin (>= 0.1.0), preferenceloader
+Enhances: wiki.qaq.apelin
+Filename: debs/wiki.qaq.apelin.dev.preferences_0.1.1_iphoneos-arm64e.deb
+Size: 7092
+MD5sum: a51f4c4c82f71431db3109a3593056cc
+SHA1: 2e040691e78de8ec48b5f177fa5e97c8a7e7ed27
+SHA256: b5af9ad498b9293ce76384515f611979bd8aca124a1fe907852f0c3c182fe720
+SHA512: 110f8f1b0f6800f2669e2b77edd46805919bebf7b1f2825fe63499e28e0ff92578d99771b9c4e32a819da8abe93841b58d00312143cb685ff68abf2d6a2b2c8f
+Description: Settings pane templates for Apelin, for roothide jailbreaks
+ Lets Apelin create, build and package preference bundles on the device: a
+ template with a switch and a text field, the PreferenceLoader entry that
+ shows it in Settings, and declarations for the private Preferences
+ framework. Needs PreferenceLoader, which your preferred package manager
+ installs with it.
+Name: Apelin Preference Bundle Development
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.preferences.png
+Depiction: https://owngoal-dev.github.io/Apelin/
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+
+Package: wiki.qaq.apelin.dev.preferences
+Architecture: iphoneos-arm64
+Version: 0.1.3
+Priority: optional
+Section: Development
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 60
+Depends: wiki.qaq.apelin (>= 0.1.0), preferenceloader
+Enhances: wiki.qaq.apelin
+Filename: debs/wiki.qaq.apelin.dev.preferences_0.1.3_iphoneos-arm64.deb
+Size: 21462
+MD5sum: 04704f17f8933283259830e00c05fdc5
+SHA1: e4d3c75a5fbf4b0bcd38df42114ccee0a70c7e57
+SHA256: 84e90a799e51598c931cb5ab1861bc823989e6895b991e36539435e8afbd3d5e
+SHA512: 343dbeca1b8b1140599428f40053d14cd1376fd0f319b73b56dc94a4e9e1ce78ef30a1f588f28271e24643d77179bca155fd6b51b7deb6449a54b39a627d41e4
+Description: Settings pane templates for Apelin, for rootless jailbreaks
+ Lets Apelin create, build and package preference bundles on the device: a
+ template with a switch and a text field, the PreferenceLoader entry that
+ shows it in Settings, and declarations for the private Preferences
+ framework. Needs PreferenceLoader, which your preferred package manager
+ installs with it.
+Name: Apelin Preference Bundle Development
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.preferences.png
+Depiction: https://owngoal-dev.github.io/Apelin/
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+
+Package: wiki.qaq.apelin.dev.preferences
+Architecture: iphoneos-arm64e
+Version: 0.1.3
+Priority: optional
+Section: Development
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 60
+Depends: wiki.qaq.apelin (>= 0.1.0), preferenceloader
+Enhances: wiki.qaq.apelin
+Filename: debs/wiki.qaq.apelin.dev.preferences_0.1.3_iphoneos-arm64e.deb
+Size: 21440
+MD5sum: d1fa9a3665b94e157b5fffd6f0006be6
+SHA1: 75d647831509b2d157c13576aa7f9edb81026c4c
+SHA256: 3a230cc4e57df152d5ac87abb840866db06bdf7665c01677feebceabbb9d15ed
+SHA512: 9ce7c6b8957706ac4913cb92352384797c8b9f5f2370eb81e54bd33a8b2bb53c140db572f401c23c22444ce8c73ca7f26a11a08e640f637f0ed37425b1423adc
+Description: Settings pane templates for Apelin, for roothide jailbreaks
+ Lets Apelin create, build and package preference bundles on the device: a
+ template with a switch and a text field, the PreferenceLoader entry that
+ shows it in Settings, and declarations for the private Preferences
+ framework. Needs PreferenceLoader, which your preferred package manager
+ installs with it.
+Name: Apelin Preference Bundle Development
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.preferences.png
+Depiction: https://owngoal-dev.github.io/Apelin/
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+
+Package: xyz.local.bilispeed
+Architecture: iphoneos-arm64
+Version: 1.4.2
+Section: Tweaks
+Maintainer: local
+Depends: mobilesubstrate
+Filename: debs/xyz.local.bilispeed_1.4.2_iphoneos-arm64.deb
+Size: 14584
+MD5sum: 9bea204c424b4c2d7d6adc1f1d7aafcd
+SHA1: 5767cb02d8bc1ab99887693cbcf4c99230b2ae09
+SHA256: aaa662aff74c5856c3ef77ece8cdf0c0b49b62d28ae9908c70e35db2a3813249
+SHA512: 28b614ca4d4b3a2032d891bb64228dc1b33dcb6360fff7a7d553c302fce67db578e98665dab2de68b787bc9d5ca73570c61b8943ff1b5bb12ba7699ec1e5a2bb
+Description: B站 3倍速BiliSpeed 注入：tv.danmaku.bilianime Native portrait and landscape 3.0 playback rate for Bilibili 8.99.
+Name: BiliSpeed B站 3倍速
+Author: local
+icon: https://huayuarc.github.io/icon/bilispeed.jpg
 
