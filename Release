@@ -1,0 +1,15 @@
+Origin: liaoshengjie24-sketch 的源
+Label: liaoshengjie24-sketch 的源
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: liaoshengjie24-sketch 的越狱软件源
+Support: https://liaoshengjie24-sketch.github.io/xiaojie.github.io/
+MD5Sum:
+ af926def62ba246bc8cacbcb0c95eac7  779 Packages
+ ffbc66ff58a47aa7dff158c1d6ca84c9  596 Packages.gz
+SHA256:
+ f424acb822ef5c6ceb35dbe902c948199c9f65b7391507f0c6cd244422435441  779 Packages
+ 0165cc1c6cf389945c0dc038cdc6a5e068b2e854be67b6913d14665e05acc393  596 Packages.gz
