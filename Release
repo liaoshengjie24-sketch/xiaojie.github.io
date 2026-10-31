@@ -8,8 +8,8 @@ Components: main
 Description: liaoshengjie24-sketch 的越狱软件源
 Support: https://liaoshengjie24-sketch.github.io/xiaojie.github.io/
 MD5Sum:
- 99f163fd785d571c09b56d0516cdaa69  270669 Packages
- 34d865c70a415768ccaeff840e10597b  39479 Packages.gz
+ 1826615216dd9502c8e4b5b874e3bc16  279791 Packages
+ c55310e459d79d5bc25e7ac07a3946a9  41065 Packages.gz
 SHA256:
- dc06aad9ed1053013ef966c17fe635861259010569513f2eb91bcf67a0d83c3d  270669 Packages
- 79b5c13221af77dcf824a92319b81dedcc640d8c59f1a6de12279d11b0e678fb  39479 Packages.gz
+ f619d5fe8592be2aa0543660c813aa7efeac318d9791ac05839d43b012657599  279791 Packages
+ fe04ffbdaad51d7b809570ad09492103031ee5dfa0f8b1ae7302994bca5fd422  41065 Packages.gz
