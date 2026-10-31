@@ -16,6 +16,27 @@ Name: floatingView
 Author: be-huge
 Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
 
+Package: com.kernelrw.adytum
+Architecture: iphoneos-arm64
+Version: 2.2
+Section: Tweaks
+Maintainer: Kernelrw <drtramadolmorphine@gmail.com>
+Installed-Size: 1805
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.altlist, preferenceloader
+Conflicts: com.sergy.immortalizer, com.sergy.immortalizerjailed, com.sergy.immortalizers, com.dao.immortalizer, com.evgeniy.immortalizerreborn, xyz.cypwn.immortalizer
+Filename: debs/com.kernelrw.adytum_2.2_iphoneos-arm64.deb
+Size: 197968
+MD5sum: 3c924aff4fc8c16a2c92496d605ca65a
+SHA1: eba47772724d37797d10bc19711a5b4605a559a6
+SHA256: a1aa26a158a2e4411f2b45af4d7a034ab38115c2a8c4e7e8a8fbefda5fd5e1ed
+SHA512: 277270236384abb20cc2cacf66b2061e1d931d319de24f1fad872ad4a0e49b8dbd5f232d0e94dad06ce075036f7f9e58b308f3303cd73687d989c231af2a2c17
+Description: True application backgrounding management.
+Tag: compatible_min::ios15.0
+Author: Kernelrw <drtramadolmorphine@gmail.com>
+Name: Adytum
+Icon: https://img.chariz.cloud/icon/adytum/icon@3x.png
+Depiction: https://chariz.com/get/adytum
+
 Package: com.minis.lockscreengradientclock
 Architecture: iphoneos-arm64
 Version: 1.5.1
@@ -310,6 +331,25 @@ MD5sum: b73dc8ddc4b2d9b54c9eadb92f5bb351
 SHA1: 2c28c635a8189effa51378802174f2e793d817f8
 SHA256: 843996e623a7996cdfb16822466d4bc414bc6785450579ccb88a00c7c718d6f7
 SHA512: 8b58b36ab3d15267c3831074db429f86a0d1b89d767a9147d6cce7bf6d7aaec5490500ff94e194280b950442146cb43d34f13e1cd58cecad7044b636585a818d
+Description: 手势与事件自动化工具
+Name: Actra
+Icon: https://mlgm66.github.io/icon/actra.png
+Author: mlgm
+
+Package: com.mlgm.actra
+Architecture: iphoneos-arm64e
+Version: 1.3
+Section: Tweaks
+Maintainer: mlgm
+Installed-Size: 4076
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Filename: debs/com.mlgm.actra_1.3_iphoneos-arm64e.deb
+Size: 812914
+MD5sum: a0aa2b9a93a3dd7698256f8149807dbc
+SHA1: 79c329f7a333a488f9b341824b084726fda87ce8
+SHA256: 643d91f4ec44233f0a88975390b4d3d0f186a8ec2cf44cca601d58c4318f0a6f
+SHA512: 0a6dfd393e3222f0f31ee476747ba822eaba2619859433639012f9bcdcf1c12aad2746dcc7c972658238a07e268cf7bd499fd1ba83c3f96f5ec6e05a106cfcb9
 Description: 手势与事件自动化工具
 Name: Actra
 Icon: https://mlgm66.github.io/icon/actra.png
