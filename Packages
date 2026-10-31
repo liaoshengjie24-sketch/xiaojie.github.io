@@ -212,11 +212,11 @@ Installed-Size: 3844
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
 Conflicts: com.example.actra-plugin
 Filename: debs/com.mlgm.actra_1.2_iphoneos-arm64.deb
-Size: 752646
-MD5sum: 4737b0ee5af4011f5b0ee5edf110943b
-SHA1: 35e5906ad01f5653ef4a9be500e24c8de92837ec
-SHA256: ad668c37dc18a911b93e8ce0530ff812a25c38599393e8ad60557446ff3b474b
-SHA512: e16740045b5d73c148af115633133c775f7aa579d4331d12c7a7d4b96a61e4efba15800edb9fca1c36893cde665f49cd0c4aab9d900efa74ba904b81de6a4ff7
+Size: 753924
+MD5sum: 98904d6d68b585c30880770c73ca7c7f
+SHA1: fcfb6180ef970d49bb359a65a4b382109e8899e9
+SHA256: 8954f43e62046550be2cdd9e3aa032fe6af1ba7de3f132db7757cbbd3772fef2
+SHA512: a22dcc52b2eacc3277567d1e2f6e580319fc694ed8724c09b7bd05395cabe8077876bcee800e5244bd248b98bbafda7b93ccd9fe2d32b6cf7df5cfc8e4857929
 Description: 手势与事件自动化工具
 Name: Actra
 Icon: https://mlgm66.github.io/icon/actra.png
