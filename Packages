@@ -1,3 +1,48 @@
+Package: com.axs.ahsfilter
+Architecture: iphoneos-arm64
+Version: 5.2.0-3
+Section: Tweaks
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 712
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.axs.ahsfilter_5.2.0-3_iphoneos-arm64.deb
+Size: 128004
+MD5sum: 601b14b40f50a3d35b46bf1bb4c63f1d
+SHA1: b0096d8b2aa70b60634b86adbd5200df02f3edb9
+SHA256: ae788d6e99b5526543c0651d419e3ae21dba64b450e188cb6198f572f8a7756c
+SHA512: 121a776eab013168dac356446532443c9afdbb613b9745f0c46ea52c85501e45c9ed550a4ac1005a139deb10c7dbbb8bbcb6b5d4fb564236264891095325b035
+Description: 爱回收助手：点击悬浮球只开面板、长按悬浮球或点「开始爬取」才按关键词直连严选接口翻页抓全（不依赖 App 是否加载过列表）。
+ * 1.自动补全系统版本/电池效率/充电次数等机况，列表带序号
+ * 2.按机型/内存/成色/电池/价格/系统版本区间筛选
+ * 3.复制单条或全部详情链接，并可在 App 内直接打开对应商品详情页
+ * 4.数据仅保存在本机沙盒，不上传任何内容
+Name: AhsFilter
+Author: Axs <qiaozhani000@163.com>
+icon: https://huayuarc.github.io/icon/ahsfilter.jpg
+
+Package: com.axs.ahsfilter
+Architecture: iphoneos-arm64e
+Version: 5.2.0-3
+Section: Tweaks
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 712
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.axs.ahsfilter_5.2.0-3_iphoneos-arm64e.deb
+Size: 124660
+MD5sum: aea7b8a2ecb9362199602e4cc7e130e3
+SHA1: 6b400f139a5efd3c4b2a0392774d6d97c632ca2a
+SHA256: f08a861573e52c27217f12043d7952435049b1b21f7b5439413ccaa996c29ec5
+SHA512: fab7e023b458916b315bfa597cb0105834e2a27f918b13e83963cc80b9cdd6e797f9d7171157e54d1ee36a1fd9b4423f0af69a6c001b841731a17f4e3b35b933
+Description: 爱回收助手：点击悬浮球只开面板、长按悬浮球或点「开始爬取」才按关键词直连严选接口翻页抓全（不依赖 App 是否加载过列表）。
+ * 1.自动补全系统版本/电池效率/充电次数等机况，列表带序号
+ * 2.按机型/内存/成色/电池/价格/系统版本区间筛选
+ * 3.复制单条或全部详情链接，并可在 App 内直接打开对应商品详情页
+ * 4.数据仅保存在本机沙盒，不上传任何内容
+Name: AhsFilter
+Author: Axs <qiaozhani000@163.com>
+icon: https://huayuarc.github.io/icon/ahsfilter.jpg
+
 Package: com.be-huge.floating-view
 Architecture: iphoneos-arm64
 Version: 1.6.0-6
@@ -30,6 +75,48 @@ MD5sum: 3c924aff4fc8c16a2c92496d605ca65a
 SHA1: eba47772724d37797d10bc19711a5b4605a559a6
 SHA256: a1aa26a158a2e4411f2b45af4d7a034ab38115c2a8c4e7e8a8fbefda5fd5e1ed
 SHA512: 277270236384abb20cc2cacf66b2061e1d931d319de24f1fad872ad4a0e49b8dbd5f232d0e94dad06ce075036f7f9e58b308f3303cd73687d989c231af2a2c17
+Description: True application backgrounding management.
+Tag: compatible_min::ios15.0
+Author: Kernelrw <drtramadolmorphine@gmail.com>
+Name: Adytum
+Icon: https://img.chariz.cloud/icon/adytum/icon@3x.png
+Depiction: https://chariz.com/get/adytum
+
+Package: com.kernelrw.adytum
+Architecture: iphoneos-arm
+Version: 3.0
+Section: Tweaks
+Maintainer: Kernelrw <drtramadolmorphine@gmail.com>
+Installed-Size: 2748
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.altlist, com.opa334.ccsupport, preferenceloader
+Conflicts: com.sergy.immortalizer, com.sergy.immortalizerjailed, com.sergy.immortalizers, com.dao.immortalizer, com.evgeniy.immortalizerreborn, xyz.cypwn.immortalizer
+Filename: debs/com.kernelrw.adytum_3.0_iphoneos-arm.deb
+Size: 291720
+MD5sum: 249ef5c29609ad8d53435be30e3c9c69
+SHA1: fe6063afc038a7ebc253a504243ceae5c16072fd
+SHA256: ba1512be81f09260a22e27b1acab4838ccedf98490cbb56e6a4a17b34710ffb3
+SHA512: 596b5bdbedf710a96471952208e34efb002a8fed13d3e28e42eca0271c453b06dd2670da06f7b9a04d1e6eaf40f253f178a154f58252a20c1b3a729b8b886c09
+Description: True application backgrounding management.
+Tag: compatible_min::ios15.0
+Author: Kernelrw <drtramadolmorphine@gmail.com>
+Name: Adytum
+Icon: https://img.chariz.cloud/icon/adytum/icon@3x.png
+Depiction: https://chariz.com/get/adytum
+
+Package: com.kernelrw.adytum
+Architecture: iphoneos-arm64
+Version: 3.0
+Section: Tweaks
+Maintainer: Kernelrw <drtramadolmorphine@gmail.com>
+Installed-Size: 2757
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.altlist, com.opa334.ccsupport, preferenceloader
+Conflicts: com.sergy.immortalizer, com.sergy.immortalizerjailed, com.sergy.immortalizers, com.dao.immortalizer, com.evgeniy.immortalizerreborn, xyz.cypwn.immortalizer
+Filename: debs/com.kernelrw.adytum_3.0_iphoneos-arm64.deb
+Size: 294470
+MD5sum: 9133c0dc222eb71ec343dd145accb965
+SHA1: 30b4b62347d31f7411e86f51e64da128209ad2df
+SHA256: aad851beb95943de90790acb5fbb84cfa41cff127440bec29389110f9cabe36d
+SHA512: 6a1cc07144ee6bd17586fc6d9560a43d05fc59e3a93e3a07f61e60be944667a76a75a38c09637323fe878108bfc308bf72c119e61d95e2e64bca84de06b63748
 Description: True application backgrounding management.
 Tag: compatible_min::ios15.0
 Author: Kernelrw <drtramadolmorphine@gmail.com>
