@@ -4664,6 +4664,192 @@ Author: MTAC
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/alpine/js.json
 icon: https://sini921.github.io/repo/sileodepiction/icon/alpine.png
 
+Package: com.sini.appdata
+Architecture: iphoneos-arm64
+Version: 1.4.1
+Section: 越狱插件
+Maintainer: Nets
+Installed-Size: 14408
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.sini.appdata_1.4.1_iphoneos-arm64.deb
+Size: 4647804
+MD5sum: ae65e72d8ccda0a4bb3ef55082e1e9c5
+SHA1: e61bb3fa54a4392a20caec0c9bfc08c179c000d6
+SHA256: 8f35b9653a9d470fe486b8534997d22a8f4284c50d3a31db85b69cada9e2c9e1
+SHA512: 8ed4f5e814901064b5084578f69e183cc1a0dd79fefc7e0722ad2201ecdc78516f7569d2c311aa2214d85ebddfe9e0b4da1d8349348f3b8a7680132e002ea38d
+Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化:增加简单版降级应用，增加可选向下滑动唤出，增加查看应用加密状态，增加面板可选去除面板分割线，增加长按面板图标以安全模式启动，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未同步刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据栏数据大小显示为包括程序组内文件夹数据，修改原版重置数据后未同步刷新缓存数据显示和权限个数显示问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
+Name: AppData(rootless)
+icon: https://sini921.github.io/repo/sileodepiction/icon/appdata.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/appdata/js.json
+Author: Fouad Raheb
+
+Package: com.sini.appdata
+Architecture: iphoneos-arm64
+Version: 1.4.7
+Section: 越狱插件
+Maintainer: Nets
+Installed-Size: 5156
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.sini.appdata_1.4.7_iphoneos-arm64.deb
+Size: 1498912
+MD5sum: a4e24ab968397d4f3305667d925d7ef7
+SHA1: 1f7edba5d3edb97893cf182235917a4f8715aef8
+SHA256: a9fc572a075bd7485d16290277f6f33c73f19d5255398932009be461437b83eb
+SHA512: 25433efaa1bfaa738fe641ef8ff501d0c18502c270eb33b3bf9294c559f50e9bf91df7d7341bdac3d8438cdf1882c8b82833fe3840729376dd9fa24a3926851f
+Description: 从主屏幕查看和管理应用程序数据
+Icon: https://sini921.github.io/repo/sileodepiction/icon/appdata.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/appdata/js.json
+Name: AppData(rootless)
+Author: Fouad Raheb
+
+Package: com.sini.applecard
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: 越狱插件
+Maintainer: Crassna
+Installed-Size: 1948
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: debs/com.sini.applecard_0.1_iphoneos-arm64.deb
+Size: 409048
+MD5sum: 4c28a5e2ef4af621e157a721238b4570
+SHA1: 46a16b8a731aa78090d42b3596623f1acbfe2ab0
+SHA256: 15cce86ec440bdb433968b21a90ec6916bc45c94036e4b56dff2349104a2432f
+SHA512: 7bb4dbca9e6ee3ab0420bfa1e3dcff17eca651d467e43fcc6254278d2037ba5c0a6e69832886bf56a0845b52efd8daec1c591d4351b43cf3ce61a181798a2272
+Description: 分屏
+Name: App Lecard(rootless)
+icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/applecard/js.json
+Author: Crassna
+
+Package: com.sini.aqyhook
+Architecture: iphoneos-arm64
+Version: 1.5.5
+Section: 应用破解
+Maintainer: ylr
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.sini.aqyhook_1.5.5_iphoneos-arm64.deb
+Size: 5144
+MD5sum: 67e53d406a47f4c46e840981f0af3fb4
+SHA1: ca5d3e3a9e32ddeb8fe24e7ea8d3ccedebb5419d
+SHA256: 583bb2cf21f353bcb633df130ed7e7897cd7d84d4485b00f65c0cf997d73fbb7
+SHA512: 98475b461b370765c85c8356f33567ef31c444dd50c3619e9cbf8c9738ad0044ac8447fff9fa624397fe447bbbdf3fa351174126644c8ba9c77fcf6615ec5968
+Description: 仅供学习交流，如有传播；使用者请在24小时内自觉删除。ylr制作投稿
+Name: AQYHook(rootless)
+Icon: https://sini921.github.io/repo/sileodepiction/icon/aqyhook.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/aqyhook/js.json
+Author: ylr
+
+Package: com.sini.autofillfix
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: 越狱插件
+Maintainer: P2KDev
+Depends: mobilesubstrate
+Filename: debs/com.sini.autofillfix_0.1_iphoneos-arm64.deb
+Size: 3072
+MD5sum: 0111619f227f8ea134ea365f607d4b82
+SHA1: 5c842de310d64a51d11fb28dccacaee322d51a97
+SHA256: f82ef0f1952a1935fc986b3cf9b07c262bd37da89de857d1fb84f184f0055adc
+SHA512: 1c019abe2b0d78da090f37731260cf407ec58552706c4d50240db0310b6d476ef51ffdc742cb0a8f4cfd510bd99759a024f45df41e0734d2400dc7652a2ee4a2
+Description: 修复越狱后，短信验证码不自动填充问题
+Name: AutoFillFix(rootless)
+Author: P2KDev
+Sponsor: P2KDev
+icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/autofillfix/js.json
+
+Package: com.sini.autoscroll15
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: 越狱插件
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: debs/com.sini.autoscroll15_1.0.0_iphoneos-arm64.deb
+Size: 5368
+MD5sum: 6f4d823e3b45209130427a99b52fd1f5
+SHA1: f64611030f9ee406469687480c50ed228a04230f
+SHA256: 3db6d16ba1f4d9538c679ba33f00d20a37d563240e7e1cdecdaecb66c96c0b8e
+SHA512: 814b159b80eea91a5f151e481be6290bb020cc1433df494a8698a8bdbab109e8c7992fff9010a8a175c730a6947c5613a3696c5a9f366eee35c7fd6d54bd16bb
+Description: 只需滑一下即可不停的一直滑，手终于可以闲下来去打了
+Name: AutoScroll(rootless)
+Author: pxcex
+icon: https://sini921.github.io/repo/sileodepiction/icon/auto.png
+
+Package: com.sini.avphotos
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: 越狱插件
+Maintainer: 来了老弟
+Depends: firmware (>=14.0), mobilesubstrate
+Filename: debs/com.sini.avphotos_1.0.1_iphoneos-arm64.deb
+Size: 7180
+MD5sum: 6f577243a229a5f394b92bd19876cf3c
+SHA1: 7c6e45b8dd738c37940b736153c626528d1eb124
+SHA256: 3f9bc3e8ea2ea45e9f9aca9f3cc3d70f0ba53af1bb75221b5da3e46c66d10100
+SHA512: 6170d88b6b0e9629c17c911411dde8b6d8b076270bea1e29bcb15812c57c15e4fbce8fb6e56e467650c62eb05caec4b4eed1f3ab9e363213b88d900a48f6cc6a
+Description: 在相册中播放照片视频可以画中画效果！为季伯奥迪哥备份。
+icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/avphotos/js.json
+Name: 相册画中画(rootless)
+Author: MiRO 来了老弟
+
+Package: com.sini.awemealwaysshowtime
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: 应用破解
+Maintainer: Nets
+Installed-Size: 56
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/com.sini.awemealwaysshowtime_1.1-1_iphoneos-arm64.deb
+Size: 2356
+MD5sum: 36a9222e850a3a0ed5d4764f59000621
+SHA1: 9a1cc76f9e1eb448766920ae2d1b7facaccfd557
+SHA256: 61bc74f57bf34dbbdd50ac5890e402f417d790ccbf34596ad1c558be6c02e013
+SHA512: 6d7784fd30dfd32959149f046ddd6571bb403b791d293335a275fd1d985cdd74918e6082043f0c3c955204f40ade44df8baffd537801a9de227da981527eaecb
+Description: 抖音视频显示发布时间
+Name: AwemeAlwaysShowTime(rootless)
+icon: https://sini921.github.io/repo/sileodepiction/icon/awemealwaysshowtime.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/awemealwaysshowtime/js.json
+Author: Netskao
+
+Package: com.sini.awemeclearlikes
+Architecture: iphoneos-arm64
+Version: 1.1-2
+Section: 应用破解
+Maintainer: Nets
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.sini.awemeclearlikes_1.1-2_iphoneos-arm64.deb
+Size: 19888
+MD5sum: fd35a1da2f04ab214eb096910162f984
+SHA1: dc9680cd7d702cc50608990b83ac5268fe315b71
+SHA256: 43ba12e80d03e1163b6d3c5334b66697e2dabd5d1d5c516e5f5c28e6d6e1686b
+SHA512: 8aa2493ca4fed35fed485a339089b5adc601e93646ca81344a9152bbfc4342bbe9bd98cf151d7af3ed1a219240ff9368cc3af4e2976e2d059e3e29463acd6e00
+Description: 抖音清除所有喜欢，在我最喜欢的页面上摇动它即可开始！
+Name: AwemeClearLikes(rootless)
+Author: Netskao
+icon: https://sini921.github.io/repo/sileodepiction/icon/dy.png
+
+Package: com.sini.awemedisablebar
+Architecture: iphoneos-arm64
+Version: 1.1-6
+Section: 应用破解
+Maintainer: Nets
+Installed-Size: 708
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: debs/com.sini.awemedisablebar_1.1-6_iphoneos-arm64.deb
+Size: 305056
+MD5sum: 66335759330bcc420f9d9dac7eb449c3
+SHA1: 1246804eab3c57bab52dff4b556ea1c77fe61908
+SHA256: 3f3bc0d6eb0567e999360597d1aaa438316322b403b67f2fe29597b49db3e07c
+SHA512: b291d56e3f718e7797ad2b4697278342ab6003b385d9a3afd47019fbf055a62e323773b18991cc7e76c6408ab6c8e834dbdfcb34963c63d7fa5805b3b60c7dff
+Description: 禁用顶部/底部/右侧选项卡按钮。仅在30.3.0及以上版本上测试
+Name: AwemeDisableBar(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/awemedisablebar/js.json
+icon: https://sini921.github.io/repo/sileodepiction/icon/dy.png
+Author: Netskao
+
 Package: com.tsangbaby.autoscroll
 Architecture: iphoneos-arm64e
 Version: 0.0.1
