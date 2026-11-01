@@ -1,3 +1,21 @@
+Package: com.0xkuj.safarix
+Architecture: iphoneos-arm64
+Version: 1.9.9.1
+Section: 越狱插件
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/com.0xkuj.safarix_1.9.9.1_iphoneos-arm64.deb
+Size: 322288
+MD5sum: d624f19c0dc0b45dabf417967c6db4d0
+SHA1: bb549944517974c7e1763d07bf46ef630e4d0f24
+SHA256: aec91cc337fe98215c3e8dbbed5e55733867e615c7dd2375ae9672bda720cec5
+SHA512: bee81bd323bf899bf510de665cc53d1ca5231d1c89e8b593225d590d39763721853590515459da6b34f691e7cd78bca9ffefa279edbd6f4d1dc9d5b16cfccb43
+Description: Safari浏览器增强，加入刀刀源汉化
+Icon: https://sini921.github.io/repo/sileodepiction/icon/safarix.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/safarix/js.json
+Name: SafariX(rootless)
+Author: 0xkuj
+
 Package: com.aa22qq.axiskey
 Architecture: iphoneos-arm64
 Version: 10.0.0
@@ -3178,6 +3196,44 @@ Description: Choicy白名单 (支持iOS 15-17 roothide)
 Name: Choicy-Whitelist
 Author: crctdd
 icon: https://huayuarc.github.io/icon/ChoicyIcon@3x.png
+
+Package: com.creaturecoding.libcspreferences
+Architecture: iphoneos-arm64
+Version: 1.5.8
+Section: 插件依赖
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Filename: debs/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64.deb
+Size: 334628
+MD5sum: 4cda020834ba1111973cd2c18d09e753
+SHA1: d865e1b32b3c3209b32cce065d4c5c44dfe45af0
+SHA256: a85ea2b315b465cf731507c78a76ef5a1115fdad0b67a7f0b19f5ffb3a268381
+SHA512: 882f1d5cfed2d8e4f8b1eb9249ed8bced68ed1c497d0c0c0eaa2e8e8d9dc1433800ecfea368c6bd77f05a3211370a5307f355a9e01bbf5b32d2a9a6bc9199fdd
+Description: 有些插件需要这个依赖
+Author: CreatureSurvive <support@creaturecoding.com>
+icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/libcspreferences/js.json
+Name: libCSPreferences(rootless)
+
+Package: com.hitori.misaki
+Architecture: iphoneos-arm64
+Version: 2.2
+Section: Tweaks
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1049
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: debs/com.hitori.misaki_2.2_iphoneos-arm64.deb
+Size: 306372
+MD5sum: 50e5e37a9b8ce78d666f9f8d83ac6b33
+SHA1: bb2bee5050b6e203be219ef0f5810ef57d088888
+SHA256: 17d4d7026ab58037eaaba7941ae1d548d9c7067d7eeb2ae89c025fe45e9bddf7
+SHA512: db3c4c4bc55fd61de4a13ec66a24e7579dbd286cc39aeaccdd025ae46a00f2d493aa46e6d20b32982bc44596210f5e1054ba30e67a0baa72a18b13f3193cb6bb
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Hitori <mikasa-san@outlook.jp>
+Name: Misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Depiction: https://chariz.com/buy/misaki
 
 Package: com.huayuarc.cputhermal
 Architecture: iphoneos-arm64
