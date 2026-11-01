@@ -131,16 +131,16 @@ icon: https://huayuarc.github.io/icon/axiskey.png
 Package: com.axs.ahsfilter
 Architecture: iphoneos-arm64
 Version: 5.2.0-3
-Section: Tweaks
+Section: Axs-Tweaks
 Maintainer: Axs <qiaozhani000@163.com>
 Installed-Size: 712
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.axs.ahsfilter_5.2.0-3_iphoneos-arm64.deb
-Size: 128004
-MD5sum: 601b14b40f50a3d35b46bf1bb4c63f1d
-SHA1: b0096d8b2aa70b60634b86adbd5200df02f3edb9
-SHA256: ae788d6e99b5526543c0651d419e3ae21dba64b450e188cb6198f572f8a7756c
-SHA512: 121a776eab013168dac356446532443c9afdbb613b9745f0c46ea52c85501e45c9ed550a4ac1005a139deb10c7dbbb8bbcb6b5d4fb564236264891095325b035
+Size: 127922
+MD5sum: b2379298f3ec19a153ec585a3114694b
+SHA1: c71a68e0e98834807d74740a015959e48519f5be
+SHA256: 732863f22b49c6ae2832bf457af15734653d54fcdd8bfb79ed806ca372755f9a
+SHA512: 99b10ef7a71e57cd3e0c8eadb40539c326076dbdb25188f88e3020957896eff616cddcbbddf17238cb54b44c46bcf867b3324bf55d622e6a60418f29b9649954
 Description: 爱回收助手：点击悬浮球只开面板、长按悬浮球或点「开始爬取」才按关键词直连严选接口翻页抓全（不依赖 App 是否加载过列表）。
  * 1.自动补全系统版本/电池效率/充电次数等机况，列表带序号
  * 2.按机型/内存/成色/电池/价格/系统版本区间筛选
@@ -148,7 +148,8 @@ Description: 爱回收助手：点击悬浮球只开面板、长按悬浮球或�
  * 4.数据仅保存在本机沙盒，不上传任何内容
 Name: AhsFilter
 Author: Axs <qiaozhani000@163.com>
-icon: https://huayuarc.github.io/icon/ahsfilter.jpg
+Icon: https://axs66.github.io/pro/icon/ahsfilter.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ahsfilter/js.json
 
 Package: com.axs.ahsfilter
 Architecture: iphoneos-arm64e
