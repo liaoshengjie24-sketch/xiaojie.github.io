@@ -16,6 +16,82 @@ Sileodepiction: https://sini921.github.io/repo/sileodepiction/safarix/js.json
 Name: SafariX(rootless)
 Author: 0xkuj
 
+Package: com.Axs.cellbadge
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Priority: optional
+Section: Axs-Tweaks
+Maintainer: Axs
+Installed-Size: 432
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.Axs.cellbadge_1.0.1_iphoneos-arm64.deb
+Size: 36408
+MD5sum: b6933a8687ffef264cb29bb8798f563e
+SHA1: 3f750f1d5920694e0733e700d5ea8d59f484fec6
+SHA256: 9adf3434e1f82b3b139041c68ad5bc97781389c49b60f1d319bb64a0bc7897b6
+SHA512: f28fbb057c1f532abcfec81a136e7807378198789c34745a368d634e96d1df6d90ee173e696feb97426b19a6a91f93562c6bac157b39a8f60fb373f53d4120ad
+Description: 为设置列表中的项目添加自定义图标前缀，支持iOS 14.5+
+Name: CellBadge 系统设置前缀图标
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/cellbadge.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/cellbadge/js.json
+
+Package: com.Axs.eneko
+Architecture: iphoneos-arm64
+Version: 1.5.1
+Section: Axs-Tweaks
+Maintainer: Axs
+Installed-Size: 440
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.Axs.eneko_1.5.1_iphoneos-arm64.deb
+Size: 60684
+MD5sum: e0d3633e1399e64d2d2e7b944e1886ca
+SHA1: 05316aa7968aca827229462091d7fa8710840180
+SHA256: 99153dac29a40ee53a33cf2b0769ef4729482903e0fb509ad6a235b4702c7fa7
+SHA512: edd3facab60fd49d6fde75075a670cc550e019084d6e448bad82a45cb8ffc68a825c4587f8cadb7bf6f4f2dd7db6cdf35dfebe349039a210b8f729e96bc6810d
+Description: 壁纸插件，将你喜欢的视频设置成桌面或者锁屏壁纸，需要安装onesettings收纳插件，在本源里面搜索onesettings安装即可。
+Name: Eneko 动态壁纸
+Author: Traurige & Axs
+Icon: https://axs66.github.io/pro/icon/eneko.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/eneko/js.json
+
+Package: com.Axs.gravitation
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Axs-Tweaks
+Maintainer: Axs
+Installed-Size: 532
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/com.Axs.gravitation_1.0.0_iphoneos-arm64.deb
+Size: 71448
+MD5sum: e6c0b985e86dbdec169fc42fafec3f94
+SHA1: 934ef92a2cde3dd46bc4b9dee6b3a6d5ee15d909
+SHA256: 0fe972057966e1fed980dfaa5fc542acd2334a55728ced4934d51728a7966cba
+SHA512: df9b043ee9f0325fef5a80dba788f62364cc66f7ad5e683b64e0abf52c986295aebeba4b33912ad83f693c32620368296a82108ac7e44706426865e7d66e62ca
+Description: Shake the phone once on the desktop, and the app will start a gravity-sensing dance; shake the phone again to return to normal. Only supports iOS 15.0-16.6.1 systems
+Name: Gravitation 重力感应
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/gravitation.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/gravitation/js.json
+
+Package: com.Axs.wechatsong
+Architecture: iphoneos-arm64
+Version: 2.5.6
+Section: 微信插件
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: debs/com.Axs.wechatsong_2.5.6_iphoneos-arm64.deb
+Size: 71424
+MD5sum: 72216a2654cf06089586f5c6e0e09fb8
+SHA1: 779cd0de0ee8536cd3591bf6a8ca9929a3d50f28
+SHA256: d5de015dc6d9c25d4a1429c90307c7376333d26a31cd2c68bd051475de7ba75b
+SHA512: 090dcfc7de9b3098f4f1ac06d840205ec4807888cd59e00700612708ab8507c2ace86cbea65dbcd46b2de7fa335887f5214a037da9f718ab004a363e5d9d5e98
+Description: 点歌封面自定义，结合源里面的抖音音频url插件，可以实现在微信点歌，播放你选择抖音音乐。操作方法见抖音音频url插件。
+Name: 点歌封面自定义
+Author: A
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/wechatsong/js.json
+
 Package: com.aa22qq.axiskey
 Architecture: iphoneos-arm64
 Version: 10.0.0
