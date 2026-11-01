@@ -4608,6 +4608,62 @@ Name: 改个应用(rootless)
 icon: https://sini921.github.io/repo/sileodepiction/icon/afhook.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/afhook/js.json
 
+Package: com.sini.airpodscompanion
+Architecture: iphoneos-arm64
+Version: 1.5
+Section: 越狱插件
+Maintainer: Ethan Whited
+Installed-Size: 10704
+Depends: preferenceloader
+Filename: debs/com.sini.airpodscompanion_1.5_iphoneos-arm64.deb
+Size: 10268800
+MD5sum: 930b842019d0763ea07e7ac9e08c538d
+SHA1: 6a23be025d5b8eca9e14721a62f10ee595493a1c
+SHA256: 577499ed6e980182382983e3f726210496ddb8b34ec9dbfd79bb75baa79ac334
+SHA512: a32990a409d07b667cabb3a8451b73d0bf783aa3b7a421647feeaa0d3ce66910a7da916a1adfb52357303e0b71fba7b4066b927219d88ecaa50cb69d6adf7669
+Description: 已修复卡屏的问题，来自季伯腾测试
+Author: Ethan Whited
+Name: AirpodsCompanion(rootless)
+icon: https://sini921.github.io/repo/sileodepiction/icon/airpods.png
+
+Package: com.sini.alipaycc
+Architecture: iphoneos-arm64
+Version: 1.5.5-3+debug
+Priority: optional
+Section: 控制中心
+Maintainer: ylr
+Installed-Size: 224
+Depends: firmware (>= 14.0), com.opa334.ccsupport
+Filename: debs/com.sini.alipaycc_1.5.5-3_debug_iphoneos-arm64.deb
+Size: 8228
+MD5sum: 52439fbd13340691851efce717d65b29
+SHA1: b2f3d8c8678f0edbae927b0ffe2aecb4117436bc
+SHA256: ad67d4d81072a685443b8d1a4fd6d064d2324dc3fd16e3b6c80ffa2e396c3f5b
+SHA512: ae05d2a0a07f02ff94d4415ae8f4e8da755e8a408a79c1ed46811a22b17d7ec53ad964a72776af34897bcef6854239268a74556e24c1c320e8e2db09a98b86ed
+Description: 控制中心添加支付宝中蚂蚁森林与手机充值，ylr制作投稿
+Name: AlipayCC(rootless)
+Icon: https://sini921.github.io/repo/sileodepiction/icon/alipaycc.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/alipaycc/js.json
+Author: ylr
+
+Package: com.sini.alpine
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: 越狱插件
+Maintainer: Sini921
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: debs/com.sini.alpine_1.4_iphoneos-arm64.deb
+Size: 601784
+MD5sum: 393a2c3049474bd465e50539398056f5
+SHA1: 071f3d18bd076409f1a07f56b28326f2a42459c3
+SHA256: 3e638827bd66d9245230dbbdfae79bd5ed09c4814ee10b631dd202c411e886a5
+SHA512: 306c259d0f4f3eb1e0fd19c0967075a2ab037af85aebd0aaff82b5ade54c7674fefe72f28a63aa73a12695c9f4fd12da4e934101b023fd915d1a0ba03e65278b
+Description: 弹窗美化
+Name: Alpine(rootless)
+Author: MTAC
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/alpine/js.json
+icon: https://sini921.github.io/repo/sileodepiction/icon/alpine.png
+
 Package: com.tsangbaby.autoscroll
 Architecture: iphoneos-arm64e
 Version: 0.0.1
