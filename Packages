@@ -4513,6 +4513,24 @@ Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
 Name: 微信增强(rootless)
 Author: huami & Lxcloud
 
+Package: com.sini.WCPulse
+Architecture: iphoneos-arm64
+Version: 1.5-9
+Section: 微信插件
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.sini.WCPulse_1.5-9_iphoneos-arm64.deb
+Size: 8746512
+MD5sum: 626d3fe9a20d16d72ef808f57f19385b
+SHA1: eb141196f07213158729dd076588d00bfb5f8b86
+SHA256: 1ca7785ffda5a9beaabfeb42a4411f03f8f6471750d9afd3c15e446f8bc82bc4
+SHA512: 0e071452e9b4532abdcb4feb019f618573c67f46c67f76c68cdc28d427372c2be76fbbd8f3424b99d9c8e02360846a6e763b8b9bd84fb76f548ee656ac1a4362
+Description: WCPulse
+Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPulse.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPulse/js.json
+Name: WCPulse(rootless)
+Author: huami
+
 Package: com.tsangbaby.autoscroll
 Architecture: iphoneos-arm64e
 Version: 0.0.1
