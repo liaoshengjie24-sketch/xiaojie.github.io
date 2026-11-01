@@ -3466,6 +3466,25 @@ Description: 可自定义锁屏时钟渐变色的美化插件。
 Name: LockScreen Gradient Clock
 Author: MoWang
 
+Package: com.miro.libmiroshared
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: 插件依赖
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 4936
+Depends: firmware (>=14.0)
+Filename: debs/com.miro.libmiroshared_1.0.2_iphoneos-arm64.deb
+Size: 732168
+MD5sum: 9e05acf11dbd9f54b55392a10a9b7b4e
+SHA1: 322997a567c516a51be8b87086bca798c8735590
+SHA256: 89eb70f1863f5970249cc9cd26ad0a4a59b07858fd1b7c789ac1012cc327f5df
+SHA512: 4831248c692341b2d76bd26b6800dd48d58795b723a5b11ee8ee43f339cb94dc5097a78f3dfb6637452161af87d12abc4c6b4f54a4007f131a9784073e7cb0a3
+Description: 有些插件需要这个依赖
+Name: libMiROShared(rootless)
+Author: MiRO <tweaks_support@miro92.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/libmiroshared/js.json
+
 Package: com.mlgm.actra
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -4291,6 +4310,99 @@ Description: 实时悬浮窗硬件监控：CPU 负载与频率、屏幕 FPS、�
   - 本包为 Rootless（arm64）版；RootHide（arm64e）请安装对应版本
 Name: SB CPU Floating
 Author: MoWang
+
+Package: com.sini..cccellularrate
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: 控制中心
+Maintainer: Netskao
+Installed-Size: 616
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: debs/com.sini..cccellularrate_1.1-1_iphoneos-arm64.deb
+Size: 89672
+MD5sum: 915554e64382fea129752274cea2d753
+SHA1: 7fc13869d3a0ece1b6efe0902841d6b77413ad55
+SHA256: 58487e1bab99bb9780713727d6eb97a84848556647e859db47ae320de0837f72
+SHA512: d70d97796be9554e0f3a445cf15e44c5c3077a01bd4f149495ba8e7ebf956bffeb4d77cfbe78d8d301ca39b9131c3cac3847f2282743310491797d4fd7afea8f
+Description: 控制中心快速切换2/3/4/5G
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cccellularrate.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/cccellularrate/js.json
+Name: CCCellularRate(rootless)
+Author: Netskao
+
+Package: com.sini.3dappversionspoofer
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Section: 越狱插件
+Maintainer: 0xkuj
+Installed-Size: 408
+Depends: com.opa334.altlist
+Filename: debs/com.sini.3dappversionspoofer_2.1.1_iphoneos-arm64.deb
+Size: 60172
+MD5sum: dcd52638c38a8713919b68f15ab642c9
+SHA1: eb35f384fd8931be4858fb1d5acfbbae26fae2d4
+SHA256: 34c5a699be71512a7c3b5ba4462d578b5cf42ec9848df3032a4581a7f675369c
+SHA512: 28444208216e4b3aca5554ba53b8dbada74499949653f17736c03d18519441de0d5b97e23a2aa5186e00013ddd96d42c23c6545a109801c10a8d75647022f30c
+Description: 暂无汉化
+Name: 3DAppVersionSpoofer(rootless)
+icon: https://sini921.github.io/repo/sileodepiction/icon/3dappversionspoofer.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/3dappversionspoofer/js.json
+Author: 0xkuj
+
+Package: com.sini.3dnetworkfixer
+Architecture: iphoneos-arm64
+Version: 1.1-8
+Section: 越狱插件
+Maintainer: Nets
+Installed-Size: 496
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.sini.3dnetworkfixer_1.1-8_iphoneos-arm64.deb
+Size: 116200
+MD5sum: 60516bde3125a9fd93abad9004f87d61
+SHA1: 773852cdad88e9a14dd971ab0af858ebd0b99e12
+SHA256: 423ac7bedc5aa882ae9035de552a1f06ff02e6dbd4a85a3e6ad69790c70f6fe3
+SHA512: 216b20a11229f46f2d11cf92eb594d4ff1b9137a3b27d72171bc0396232c632067eec8032901f8fa4891b36b77ba05c029b96caf392aa072a6f23f1f4d34cbac
+Description: 长按桌面图标，快速修复应用程序网络权限
+icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/3dnetworkfixer/js.json
+Author: Netskao
+Name: 3DNetworkFixer(rootless)
+
+Package: com.sini.AppIndex
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: 越狱应用
+Maintainer: Serena <hanzikashi@gmail.com>
+Installed-Size: 1677
+Filename: debs/com.sini.AppIndex_1.0_iphoneos-arm64.deb
+Size: 780368
+MD5sum: 6fb83b2cf5c2743329a8a98b4f6ef17b
+SHA1: 53ea1a592ccd48ea618211275b75a3e78c2efe29
+SHA256: 1614b757310af1acef9c4a28db3029eca44f805043d96c3c422a88fefa4d16e7
+SHA512: 9890d9a93e79d9cbfc6349ef22b32edc0a23e4b70fc4afdb56371bfbe56bf68d83604e6e774510ec55180ad72c250d36d9443396bf78c5d56b0bf0335bce6d1d
+Description: 用于查看和管理应用程序
+Author: Serena <hanzikashi@gmail.com>
+Name: AppIndex(rootless)
+icon: https://sini921.github.io/repo/sileodepiction/icon/appindex.png
+
+Package: com.sini.BubbleBox
+Architecture: iphoneos-arm64
+Version: 1.0-3
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.sini.BubbleBox_1.0-3_iphoneos-arm64.deb
+Size: 1582988
+MD5sum: d03b7ecd20acbd210ce40ad4bef3fd7f
+SHA1: 63eebd9cc426a1b0d2e84519eab638b5cf90e7bb
+SHA256: 2e8e32ec12c03477cb3987cc3af1e53135d05d34bc931b0fd09867b4941c517d
+SHA512: 22fd736ef6a406282ed98797fdc703b11431405ff60a91152f0573a35fba65523f8c8bacf4500f317bff35f3f66d1962a29b5721afff3108920f6e7bc7e165bc
+Description: 微信气泡盒子
+Icon: https://sini921.github.io/repo/sileodepiction/icon/BubbleBox.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/BubbleBox/js.json
+Name: 气泡盒子(rootless)
+Author: Mao
 
 Package: com.tsangbaby.autoscroll
 Architecture: iphoneos-arm64e
