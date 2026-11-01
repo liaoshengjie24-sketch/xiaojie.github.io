@@ -4422,6 +4422,25 @@ Sileodepiction: https://sini921.github.io/repo/sileodepiction/HBWechatHelper.ail
 Name: 黄白助手(rootless)
 Author: HuangBai <QQ:1343309363@qq.com>
 
+Package: com.sini.WCCC
+Architecture: iphoneos-arm64
+Version: 1.0-8
+Section: 微信插件
+Maintainer: huami
+Installed-Size: 1944
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.sini.WCCC_1.0-8_iphoneos-arm64.deb
+Size: 735876
+MD5sum: e3bbb51a6477078df339d0604a219f47
+SHA1: 97938e609b8d090c3f68e006969ef466a2440edc
+SHA256: 11929b02798d233830e8e0ec02358a820eb2a027ca3a6a2caed4ec4882d82053
+SHA512: 9d2a582ab97b5b6f906c83703a323a48272dd89aff49e049f17b912be34aec62a2e56801d683690ce49aee5233971538437e646e9a682e28ba36cfc73af995bf
+Description: 微信热更新管理
+Icon: https://sini921.github.io/repo/sileodepiction/icon/WCCC.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCCC/js.json
+Name: WCCC(rootless)
+Author: huami
+
 Package: com.tsangbaby.autoscroll
 Architecture: iphoneos-arm64e
 Version: 0.0.1
