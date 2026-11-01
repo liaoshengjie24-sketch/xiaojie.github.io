@@ -4531,6 +4531,83 @@ Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPulse/js.json
 Name: WCPulse(rootless)
 Author: huami
 
+Package: com.sini.WCRefine
+Architecture: iphoneos-arm64
+Version: 1.4-3
+Priority: optional
+Section: 微信插件
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: debs/com.sini.WCRefine_1.4-3_iphoneos-arm64.deb
+Size: 2882336
+MD5sum: da46dfeac9dbf00fad4d4a1f05bdab45
+SHA1: 34cc346cedc7040da297a1cf2979c213a5be0502
+SHA256: 4f7d968dd0a41035e55dbbea7bc3912de68fef6fd2480e48b6039f2579a23d42
+SHA512: a606fb189f44d83524b698bb6d69689e23616230da2268793cc57ef48367222615c65badcabfd1f8ef95b8543041aea552e07a20040da348055a4234851b49a5
+Description: 微信优化的重制版，基于微信8.0.64+版本制作。
+Icon: https://sini921.github.io/repo/sileodepiction/icon/WCRefine.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCRefine/js.json
+Name: WCRefine(rootless)
+Author: 热心网友
+dev: 君临
+
+Package: com.sini.actionbarreborn
+Architecture: iphoneos-arm64
+Version: 1.1-2
+Section: 越狱插件
+Maintainer: Nets
+Installed-Size: 796
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.sini.actionbarreborn_1.1-2_iphoneos-arm64.deb
+Size: 162120
+MD5sum: 4a2426e0b0e25fb05b75f49ddc846714
+SHA1: 0bfeee664d72b818d746e13604c40a9797105192
+SHA256: ca75312601323e6204932424f54ef6091b609bf4cc97a07de359131d1a89e38c
+SHA512: 472f0c94daea580fac6ffcb2e9c232800ce0697e60230d5e90db776cdd731232f6348008a124d0798b199f5f49a130de82df4a64ff13e2f8b302603ca9f5faef
+Description: 在键盘底部增加撤消、重做、全选、复制、剪切和粘贴按钮。
+Name: ActionBar Reborn(rootless)
+Author: Netskao
+icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/actionbarreborn/js.json
+
+Package: com.sini.adsspee
+Architecture: iphoneos-arm64
+Version: 1.1.3
+Section: 应用破解
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 620
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.sini.adsspee_1.1.3_iphoneos-arm64.deb
+Size: 110344
+MD5sum: 42004c91dc74df35bee816d9a9185fc7
+SHA1: 1a90621b4aa4d42242d87b692777706a2a3b5d3b
+SHA256: ccec859f98c43ceb5c3736b4622ffdf15d0c9f8a3c6fdcd6c6320e198f13a2a0
+SHA512: 8b91d286f4f6f60e1160345a6d50ef6530adf6a9d195a6858419ceb952afa4419e4449945d71ce4a878cc8f13d9ad1cebfd05faaa00eb47f46eb1c90642b99ed
+Description: 快速跳过激励视频广告，奖励正常领取。
+Name: VideoAdsSpeed(rootless)
+Author: lenglengyu
+icon: https://sini921.github.io/repo/sileodepiction/icon/adsspee.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/adsspee/js.json
+
+Package: com.sini.afhook.app
+Architecture: iphoneos-arm64
+Version: 3.5.0
+Section: 越狱插件
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1024
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/com.sini.afhook.app_3.5.0_iphoneos-arm64.deb
+Size: 157140
+MD5sum: 7c253828895d51056879b4d2fa63631b
+SHA1: fdaf6ffaf0c8a47f0f5bf772deb2654e85ecf4ed
+SHA256: 405ecd5577e7f00c02ed6f14a5589231b72ae4f8d5a03f0b67e07d09483d5882
+SHA512: 4f5b35c373865f2850e99aeba9561a8d4d78a58e6170da5083bf912ce8393c042525c172d41632f7c1bc1845ca699e929af9a36149c10e8110bafa5042d97e15
+Description: 季伯毅要求备份这个
+Author: 小哥哥 <zhulongfei28@gmail.com>
+Name: 改个应用(rootless)
+icon: https://sini921.github.io/repo/sileodepiction/icon/afhook.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/afhook/js.json
+
 Package: com.tsangbaby.autoscroll
 Architecture: iphoneos-arm64e
 Version: 0.0.1
