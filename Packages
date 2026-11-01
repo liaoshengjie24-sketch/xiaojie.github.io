@@ -3414,6 +3414,24 @@ Name: Adytum
 Icon: https://img.chariz.cloud/icon/adytum/icon@3x.png
 Depiction: https://chariz.com/get/adytum
 
+Package: com.lclrc.hammerit
+Architecture: iphoneos-arm64
+Version: 1.7.1
+Section: Tweaks
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: debs/com.lclrc.hammerit_1.7.1_iphoneos-arm64.deb
+Size: 978564
+MD5sum: 9e26439edd6109b88170dc671b3fe4b2
+SHA1: 2b24d630724a39e53b53705b7136184bc7c9a47b
+SHA256: 834dece2f38f55418840f10ad6d71b895997ad96f14410ce7db5ff37bb94f32f
+SHA512: d0c9b50bc02ce6ab36662e06d04c8c97c84050b952201518b5b0ce58db7694ebc4a1a829df6901addbc9b72603af6d2d8fbc3d45b34e1004628970194a6f0988
+Description: Control your text or translate as you wish.
+Name: Hammer It
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+
 Package: com.minis.lockscreengradientclock
 Architecture: iphoneos-arm64
 Version: 1.5.1
@@ -4421,6 +4439,41 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/HBWechatHelper.ailun.pn
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/HBWechatHelper.ailun/js.json
 Name: 黄白助手(rootless)
 Author: HuangBai <QQ:1343309363@qq.com>
+
+Package: com.sini.QQMusicNoAds
+Architecture: iphoneos-arm64
+Version: 0.1-2
+Priority: optional
+Section: 应用破解
+Maintainer: Sini921
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.sini.QQMusicNoAds_0.1-2_iphoneos-arm64.deb
+Size: 116856
+MD5sum: f83702f630931364f986045383e1e969
+SHA1: 8fd630311c1e97c8b1b97375d116a4ad3b418818
+SHA256: 77ec37eace08f4379a3d9d5cef64864386bbb2495111f66f6e990ed27bbb3cfb
+SHA512: 716d37457c60da53c9f9188ed10c5bcc9d620a60ba39efe3e34427d7f971203ce7e930a3d2d67d6c37a197b11ea54dc6c64236ee7220a8b38c260af76c1b72b0
+Description: QQ音乐全局去广告，解锁至臻音质
+Name: QQMusicNoAds(rootless)
+Author: iosrxwy
+icon: https://sini921.github.io/repo/sileodepiction/icon/qqmusic.png
+
+Package: com.sini.Telegrammask
+Architecture: iphoneos-arm64
+Version: 0.1-3
+Priority: optional
+Section: 应用破解
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.sini.Telegrammask_0.1-3_iphoneos-arm64.deb
+Size: 498704
+MD5sum: 691905209b1de71f08212f201e1265d9
+SHA1: 292836609e61fd288ba4165cc160c8bd0653f2b9
+SHA256: 1790408cf9af8d2c34e1490b9cff8fb79d847021749c3b93c8ab3d18382f8546
+SHA512: a84d1b8dbecff3944dba25f31dee3e40e74a6c00e578dcd08bc39fa555d01a1783e29920dae08e80fbea6588720ece385f717ab7eb005b5d39355c799fbd4821
+Description: TG伪装计算器插件，密码为当前时间，如13:14密码为1314，00：56密码为56，24小时制为准。三指双击可自定义密码。
+Name: Telegrammask(rootless)
+Author: iosrxwy
+icon: https://sini921.github.io/repo/sileodepiction/icon/tg.png
 
 Package: com.sini.WCCC
 Architecture: iphoneos-arm64
