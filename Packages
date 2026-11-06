@@ -1,21 +1,3 @@
-Package: com.0xkuj.safarix
-Architecture: iphoneos-arm64
-Version: 1.9.9.1
-Section: 越狱插件
-Maintainer: 0xkuj
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: debs/com.0xkuj.safarix_1.9.9.1_iphoneos-arm64.deb
-Size: 322288
-MD5sum: d624f19c0dc0b45dabf417967c6db4d0
-SHA1: bb549944517974c7e1763d07bf46ef630e4d0f24
-SHA256: aec91cc337fe98215c3e8dbbed5e55733867e615c7dd2375ae9672bda720cec5
-SHA512: bee81bd323bf899bf510de665cc53d1ca5231d1c89e8b593225d590d39763721853590515459da6b34f691e7cd78bca9ffefa279edbd6f4d1dc9d5b16cfccb43
-Description: Safari浏览器增强，加入刀刀源汉化
-Icon: https://sini921.github.io/repo/sileodepiction/icon/safarix.png
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/safarix/js.json
-Name: SafariX(rootless)
-Author: 0xkuj
-
 Package: com.Axs.cellbadge
 Architecture: iphoneos-arm64
 Version: 1.0.1
